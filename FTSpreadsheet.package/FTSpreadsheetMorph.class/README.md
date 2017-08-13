@@ -1,0 +1,9 @@
+Instance Variables
+	width:		<Integer>
+	heigh;		<Integer>
+	cellHeight:		<Integer>
+	cellWidth;		<Integer>
+	uniformCellWidth:		<Boolean>
+	uniformCellHeight:		<Boolean>
+	horizontalCellsCount:		<Integer>
+	verticalCellsCount:		<Integer>

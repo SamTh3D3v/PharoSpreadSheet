@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "ElhamerOussama 8/14/2017 00:50",
+	"super" : "Morph",
+	"category" : "FTSpreadsheet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"width",
+		"heigh",
+		"cellHeight",
+		"cellWidth",
+		"uniformCellWidth",
+		"uniformCellHeight",
+		"horizontalCellsCount",
+		"verticalCellsCount"
+	],
+	"name" : "FTSpreadsheetMorph",
+	"type" : "normal"
+}
